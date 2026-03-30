@@ -1,0 +1,7 @@
+{
+  "name": "Africa Insight",
+  "description": "AI-powered platform for analyzing and addressing major challenges across Africa through interactive maps and predictive analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
